@@ -4,6 +4,10 @@ body {
     font-family: 'Inter';
     padding: 0;
     margin: 0;
+    max-width: 1150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
 }
 
 .container {
@@ -33,7 +37,7 @@ a {
 .nemu {
     max-width: 500px;
     font-size: 40px;
-    padding-left: 100 px;
+    padding-left: 100px;
 }
 
 .hero {
@@ -74,4 +78,25 @@ button{
     background-color: black;
     color: #fff;
     border-radius: 10px;
+}
+
+.nav{
+    padding-left: 800px;
+    margin-top: -2800px;
+}
+
+.gn{
+    padding-left: 800px;
+    padding-top: 200px;
+}
+
+.gf{
+    padding-left: 800px;
+    padding-top: 300px;
+}
+
+.img{
+    padding-top: 400px;
+    margin-left: -800px;
+    width: 1200px;
 }
